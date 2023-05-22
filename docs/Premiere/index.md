@@ -1,5 +1,6 @@
 # Cours de NSI - Premiere
 
 ## Les algorithmes de tri
-- [Cours](LesTris/Cours.md)
-- [Exercices](LesTris/Exercices.md)
+
+Markdown : [Cours](LesTris/Cours.md)
+Pdf : [Cours](LesTris/CoursAlgorithmesDeTri.pdf)

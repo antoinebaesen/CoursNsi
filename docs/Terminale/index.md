@@ -2,4 +2,5 @@
 
 ## Recherche textuelle
 
-- [Cours](RechercheTextuelle/Cours.md)
+Markdown : [Cours](RechercheTextuelle/Cours.md)
+Pdf : [Cours](RechercheTextuelle/CoursRechercheTextuelle.pdf)

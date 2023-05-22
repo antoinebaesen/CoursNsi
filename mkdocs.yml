@@ -1,1 +1,31 @@
-site_name: Cours NSI
+site_name: CoursNsi
+site_url: https://antoine_baesen.gitlab.io/nsi
+site_dir: public
+
+# extra_css: [extra.css]
+
+nav:
+    - Home : index.md
+    - SNT Seconde : ./Seconde/index.md
+    - NSI Première : ./Premiere/index.md
+    - NSI Terminale : ./Terminale/index.md
+
+theme:
+    name: mkdocs
+    highlightjs: False
+
+#    readthedocs
+
+markdown_extensions:
+    - admonition
+#    - markdown_katex:
+#        no_inline_svg: True
+#        insert_fonts_css: True
+#        macro-file: macros.tex
+
+#    - pymdownx.superfences
+#    - pymdownx.highlight:
+#        noclasses: True
+#        pygments_style: 'emacs'
+#        linenums_style: 'table'
+#    - pymdownx.inlinehilite
