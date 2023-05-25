@@ -35,8 +35,6 @@ image.putpixel((0, 0), (255, 0, 0))
 image.save('Exercice1_resultat.jpg')
 ```
 
-> Ce programme est disponible dans le fichier [ExempleUtilisationPil.py](ExempleUtilisationPil.py)
-
 Ecrire un programme pour récupérer la couleur du pixel en position (2, 2) de l'image `Exercice1.jpg`
 
 ---
