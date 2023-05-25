@@ -4,4 +4,4 @@
 
 Cours : [Markdown](PhotographieNumerique/CoursPhotographieNumerique.md) [Pdf](PhotographieNumerique/CoursPhotographieNumerique.pdf)
 
-Exercices : [Markdown](PhotographieNumerique/Exercices.md) [pdf](PhotographieNumerique/exercices.pdf)
+Exercices : [Markdown](PhotographieNumerique/exercices.md) [pdf](PhotographieNumerique/exercices.pdf)

@@ -1,6 +1,7 @@
 
 # Exercices : Photographie numérique
 
+
 ## Exercice 1
 
 > Pour utiliser une image dans un programme python on peut utiliser la bibliothèque PIL (Python Imaging Library). Cette bibliothèque permet de lire et d'écrire des images dans de nombreux formats.
@@ -131,3 +132,10 @@ Ecrire un programme pour créer une image de 100x100 pixels que vous remplirez a
 Vous pourrez ensuite utiliser vos filtres précédents pour modifier cette image.
 
 ---
+
+## Ressources
+
+Exemple d'image possible pour les exercices : 
+![Image de base](Exercice1.jpg)
+
+Vous pouvez également utiliser une autre image de votre choix.
