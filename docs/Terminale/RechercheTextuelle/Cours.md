@@ -159,13 +159,3 @@ Cette fonction sera utilisée pour tester si le mot recherché est présent à u
 Utilisez les fonctions précédentes pour compléter le code de la fonction rechercheBoyerMoore qui prend en paramètre un texte et un mot et qui renvoi si le mot est présent dans le texte.
 
 > Le code à compléter est disponible dans le fichier [rechercheBoyerMoore.py](rechercheBoyerMoore.py)
-
-Vous pourrez tester votre code avec le code suivant :
-
-```python
-# Tests
-assert recherche_mot_boyer('Le croustichat', 'chat')
-assert recherche_mot_boyer('Le croustichat', 'chien') is False
-assert recherche_mot_boyer('Le croustichat', 'crou')
-assert recherche_mot_boyer('Le croustichat', 'alice') is False
-```

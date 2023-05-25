@@ -3,4 +3,4 @@
 ## Recherche textuelle
 
 Markdown : [Cours](RechercheTextuelle/Cours.md)
-Pdf : [Cours](RechercheTextuelle/CoursRechercheTextuelle.pdf)
+Pdf : [Cours](RechercheTextuelle/Cours.pdf)
