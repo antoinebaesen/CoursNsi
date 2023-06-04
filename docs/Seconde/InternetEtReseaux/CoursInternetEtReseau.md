@@ -78,9 +78,7 @@ Maintenant que les appareils sont connectés, il faut les configurer pour qu'ils
 
 ![Configuration du deuxième ordinateur](./images/filius7.png)
 
-7. Cliquez sur le switch pour l'ouvrir. Cliquez sur l'onglet "Configuration" et remplissez les champs comme sur l'image ci-dessous. N'oubliez pas de cliquer sur "Appliquer" pour valider les changements.
-
-![Configuration du switch](./images/filius8.png)
+7. Si vous avez bien suivi les étapes précédentes, on va pouvoir tester la connexion entre les deux ordinateurs.
 
 ### Etape 4 : Test de la connexion
 
